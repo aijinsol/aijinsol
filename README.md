@@ -6,6 +6,8 @@
 <img src="https://img.shields.io/badge/-GMAIL-violet?logo=gmail"/>
 </a>
 
+<br><br>
+
 <picture>
 <source
   srcset="https://github-readme-stats.vercel.app/api?username=aijinsol&show_icons=true&theme=dark&rank_icon=github"
