@@ -22,5 +22,5 @@
 
 
 <a href="https://solved.ac/jinsolkim719">
-    <img src="http://mazassumnida.wtf/api/generate_badge?boj=jinsolkim719"/>
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jinsolkim719"/>
 </a>
