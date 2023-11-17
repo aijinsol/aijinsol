@@ -39,13 +39,18 @@
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jinsolkim719"/>
 </a>
 
-## 💪🏻 Main Skills
+## 💪🏻 Tech Stack
 <div>
     <a>
         <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white"/>
+        <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white"/>
+        <img src="https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white"/>
+        <img src="https://img.shields.io/badge/-AWS-232F3E?logo=aws&logoColor=white"/>
         <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white"/>
         <img src="https://img.shields.io/badge/-Pytorch-EE4C2C?logo=pytorch&logoColor=white"/>
-        <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white"/>
+        <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white"/>
+        <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white"/>
         <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white"/>
     </a>
 </div>
