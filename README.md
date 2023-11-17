@@ -46,7 +46,7 @@
         <img src="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white"/>
         <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white"/>
         <img src="https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white"/>
-        <img src="https://img.shields.io/badge/-AWS-232F3E?logo=aws&logoColor=white"/>
+        <img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white"/>
         <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white"/>
         <img src="https://img.shields.io/badge/-Pytorch-EE4C2C?logo=pytorch&logoColor=white"/>
         <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white"/>
