@@ -18,26 +18,19 @@
     <a href="https://www.kaggle.com/jinsolkim719">
         <img src="https://img.shields.io/badge/-Kaggle-20BEFF?logo=kaggle&logoColor=white"/>
     </a>
+    <a href="https://solved.ac/jinsolkim719">
+        <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=jinsolkim719"/>
+    </a>
 </div>
 
 <br>
 
-<picture>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=aijinsol&show_icons=true&theme=dark&hide_title=true&rank_icon=github"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=aijinsol&show_icons=true&hide_title=true&rank_icon=github"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=aijinsol&show_icons=true&hide_title=true&rank_icon=github" />
-</picture>
-
-
-<a href="https://solved.ac/jinsolkim719">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jinsolkim719"/>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=aijinsol&show_icons=true&theme=material-palenight&hide_border=true&&rank_icon=github&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
 </a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aijinsol&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
+</a>    
 
 ## 💪🏻 Tech Stack
 
@@ -48,3 +41,4 @@
 | ML Engineering       | <img src="https://img.shields.io/badge/-Pytorch-EE4C2C?logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white"/> |
 | Data Engineering     | <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white"/> |
 | Cloud Platform       | <img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white"/> |
+
