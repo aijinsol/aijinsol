@@ -38,7 +38,7 @@
 |:---------------------|:---------------------|
 | Language             | <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/GO-00ADD8?logo=go&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1"> |
 | Backend Engineering  | <img src="https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white"/> |
-| ML Engineering       | <img src="https://img.shields.io/badge/-Pytorch-EE4C2C?logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white"/> |
+| ML Engineering       | <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white"/> |
 | Data Engineering     | <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white"/> |
 | Cloud Platform       | <img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white"/> |
 
