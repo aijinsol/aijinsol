@@ -4,7 +4,7 @@
 
 <div align="center">
     <a href="mailto:jinsolkim719@gmail.com">
-        <img src="https://img.shields.io/badge/-GMAIL-EA4335?logo=gmail&logoColor=white"/>
+        <img src="https://img.shields.io/badge/-Gmail-EA4335?logo=gmail&logoColor=white"/>
     </a>
     <a href="https://www.linkedin.com/in/aijinsol/">
         <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white"/>
