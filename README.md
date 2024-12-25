@@ -4,10 +4,10 @@
     media="(prefers-color-scheme: dark)"
     />
     <source
-    srcset="https://capsule-render.vercel.app/api?type=waving&color=6dc5ff&text=aijinsol&fontAlign=50&fontAlignY=30&fontSize=30&desc=Software%20Engineer&descAlign=50&descAlignY=55&descSize=15"
+    srcset="https://capsule-render.vercel.app/api?type=waving&color=58a6ff&text=aijinsol&fontAlign=50&fontAlignY=30&fontSize=30&desc=Software%20Engineer&descAlign=50&descAlignY=55&descSize=15&fontColor=414345"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0F3C64&text=aijinsol&fontAlign=50&fontAlignY=30&fontSize=30&desc=Software%20Engineer&descAlign=50&descAlignY=55&descSize=15"
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=58a6ff&text=aijinsol&fontAlign=50&fontAlignY=30&fontSize=30&desc=Software%20Engineer&descAlign=50&descAlignY=55&descSize=15"
     />
 </picture>
 
@@ -104,9 +104,9 @@
     media="(prefers-color-scheme: dark)"
     />
     <source
-    srcset="https://capsule-render.vercel.app/api?type=waving&color=6dc5ff&section=footer"
+    srcset="https://capsule-render.vercel.app/api?type=waving&color=58a6ff&section=footer"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0F3C64&section=footer"
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=58a6ff&section=footer"
     />
 </picture>
